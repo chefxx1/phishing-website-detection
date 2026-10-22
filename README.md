@@ -16,7 +16,7 @@ Test set: 1,170 websites. Phishing is the positive class.
 
 | Model | Accuracy | Precision | Recall | F1 | ROC-AUC |
 |---|---|---|---|---|---|
-| **Random Forest** | **0.939** | **0.959** | 0.922 | **0.940** | **0.988** |
+| **Random Forest** | **0.939** | **0.959** | 0.922 | **0.940** | **0.987** |
 | KNN | 0.921 | 0.917 | **0.932** | 0.925 | 0.975 |
 | Logistic Regression | 0.917 | 0.926 | 0.912 | 0.919 | 0.977 |
 
